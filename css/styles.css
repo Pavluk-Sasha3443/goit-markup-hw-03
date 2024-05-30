@@ -168,7 +168,6 @@ a {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-  margin-bottom: 8px;
 }
 
 .visually-list {
@@ -180,6 +179,7 @@ a {
 }
 .section {
   padding: 120px 0;
+  margin-bottom: 8px;
 }
 /* Ourteam */
 .team {
